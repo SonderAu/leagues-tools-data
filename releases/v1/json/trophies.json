@@ -1,0 +1,44 @@
+{
+  "TROPHY_THRESHOLDS": [0, 2000, 4000, 10000, 20000, 30000, 45000, 60000],
+  "TROPHIES": [
+    {
+      "id": 0,
+      "label": "No"
+    },
+    {
+      "id": 1,
+      "label": "Bronze",
+      "image": "trophy-bronze.png"
+    },
+    {
+      "id": 2,
+      "label": "Iron",
+      "image": "trophy-iron.png"
+    },
+    {
+      "id": 3,
+      "label": "Steel",
+      "image": "trophy-steel.png"
+    },
+    {
+      "id": 4,
+      "label": "Mithril",
+      "image": "trophy-mithril.png"
+    },
+    {
+      "id": 5,
+      "label": "Adamant",
+      "image": "trophy-adamant.png"
+    },
+    {
+      "id": 6,
+      "label": "Rune",
+      "image": "trophy-rune.png"
+    },
+    {
+      "id": 7,
+      "label": "Dragon",
+      "image": "trophy-dragon.png"
+    }
+  ]
+}
