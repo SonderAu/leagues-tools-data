@@ -1,0 +1,121 @@
+{
+  "NONE_REGION_ID": -1,
+  "DEFAULT_REGIONS": [0, 1],
+  "REGION_UNLOCK_THRESHOLDS": [0, 90, 200, 400],
+  "GLOBAL_REGION": {
+    "label": "Global",
+    "icon": "task-global.png"
+  },
+  "LEAGUES_REGIONS": [
+    {
+      "id": 0,
+      "label": "Misthalin",
+      "icon": "task-misthalin.png",
+      "map": "map-misthalin.png",
+      "infographic": "info-misthalin.jpeg",
+      "isDefaultUnlock": true,
+      "questUnlockIds": ["31", "34", "38", "145", "11", "47"],
+      "diaryUnlocks": [295, 297, 299, 300, 301, 310, 311, 315, 316, 317, 319, 320, 322, 323, 324, 327, 382, 383, 390, 391, 393, 396, 404, 406]
+    },
+    {
+      "id": 1,
+      "label": "Karamja",
+      "icon": "task-karamja.png",
+      "map": "map-karamja.png",
+      "infographic": "info-karamja.png",
+      "isDefaultUnlock": true,
+      "questUnlockIds": ["133"],
+      "diaryUnlocks": [203, 204, 216, 221, 227, 231, 234, 236, 242]
+    },
+    {
+      "id": 2,
+      "label": "Asgarnia",
+      "icon": "task-asgarnia.png",
+      "map": "map-asgarnia.png",
+      "infographic": "info-asgarnia.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["93", "102"],
+      "diaryUnlocks": [97, 114, 118]
+    },
+    {
+      "id": 3,
+      "label": "Desert",
+      "icon": "task-desert.png",
+      "map": "map-desert.png",
+      "infographic": "info-desert.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["2343"],
+      "diaryUnlocks": [58, 67, 70, 75]
+    },
+    {
+      "id": 4,
+      "label": "Fremennik",
+      "icon": "task-fremennik.png",
+      "map": "map-fremennik.png",
+      "infographic": "info-fremennik.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["2338", "74", "32", "98"],
+      "diaryUnlocks": [131, 134, 141, 142, 155, 156]
+    },
+    {
+      "id": 5,
+      "label": "Morytania",
+      "icon": "task-morytania.png",
+      "map": "map-morytania.png",
+      "infographic": "info-morytania.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["22", "67"],
+      "diaryUnlocks": [346, 350, 357, 360, 362]
+    },
+    {
+      "id": 6,
+      "label": "Kandarin",
+      "icon": "task-kandarin.png",
+      "map": "map-kandarin.png",
+      "infographic": "info-kandarin.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["96", "140", "82"],
+      "diaryUnlocks": [171, 186, 188, 195, 196, 199, 409, 414, 424, 434, 441, 449, 1, 8, 14, 15, 20, 22, 32, 33, 35, 41]
+    },
+    {
+      "id": 7,
+      "label": "Kourend",
+      "icon": "task-kourend.png",
+      "map": "map-kourend.png",
+      "infographic": "info-kourend.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["81"],
+      "diaryUnlocks": [278]
+    },
+    {
+      "id": 8,
+      "label": "Tirannwn",
+      "icon": "task-tiranwnn.png",
+      "map": "map-tirannwn.png",
+      "infographic": "info-tirannwn.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["137"],
+      "diaryUnlocks": [278]
+    },
+    {
+      "id": 9,
+      "label": "Wilderness",
+      "icon": "task-wilderness.png",
+      "map": "map-wilderness.png",
+      "infographic": "info-wilderness.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["43"],
+      "diaryUnlocks": [473, 482, 484, 486]
+    },
+    {
+      "id": 10,
+      "label": "Varlamore",
+      "icon": "task-varlamore.png",
+      "map": "map-varlamore.png",
+      "infographic": "info-varlamore.png",
+      "isDefaultUnlock": false,
+      "questUnlockIds": ["3710", "3513"],
+      "diaryUnlocks": []
+    }
+  ]
+}
